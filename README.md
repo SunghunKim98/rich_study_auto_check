@@ -1,7 +1,6 @@
 # rich_study_auto_check
 
 This is just for our rich_study_team.
-
 (https://www.instagram.com/rich_study_team/?hl=ko)
 
 
